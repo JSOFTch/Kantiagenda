@@ -1,0 +1,286 @@
+{
+  "project_info": {
+    "project_number": "156153175964",
+    "firebase_url": "https://studentcalendarpro.firebaseio.com",
+    "project_id": "studentcalendarpro",
+    "storage_bucket": "studentcalendarpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:5eaca4646fcd2648",
+        "android_client_info": {
+          "package_name": "com.jeapps.jelle.studentcalendarpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-slmg7nrbq5ulags42vbf91bm5lk3d4gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeapps.jelle.studentcalendarpro",
+            "certificate_hash": "cb9708aece0b611acec9c3443122695e77402bcf"
+          }
+        },
+        {
+          "client_id": "156153175964-43mmtur3i6qskusl6upe59nuq9uhtip3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeapps.jelle.studentcalendarpro",
+            "certificate_hash": "51232e7b68a9a76b7487eb93aa8d05f6396b63fa"
+          }
+        },
+        {
+          "client_id": "156153175964-dsij9ssj25m288a3oncdtv3f31946pf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeapps.jelle.studentcalendarpro",
+            "certificate_hash": "e92853af768eb9ec5329ce3e41428d901caeaca1"
+          }
+        },
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156153175964-6nmte36ij924srct9hfmet0t4st0kuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:13cbdb5bbc3cf370",
+        "android_client_info": {
+          "package_name": "com.simplemobiletools.studentcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-b9uhsu0pqbihcmm1td9i9gun3l83rvjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemobiletools.studentcalendar",
+            "certificate_hash": "cb9708aece0b611acec9c3443122695e77402bcf"
+          }
+        },
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156153175964-6nmte36ij924srct9hfmet0t4st0kuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:64d7007580fa7e92",
+        "android_client_info": {
+          "package_name": "com.simplemobiletools.studentcalendar.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-dl0ok1tld40rqc3nis3u4ab1b19av5ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemobiletools.studentcalendar.debug",
+            "certificate_hash": "cb9708aece0b611acec9c3443122695e77402bcf"
+          }
+        },
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156153175964-6nmte36ij924srct9hfmet0t4st0kuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:c87f2233a0b3399a",
+        "android_client_info": {
+          "package_name": "com.simplemobiletools.studentcalendarpaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:eb3cf22c50a6e974",
+        "android_client_info": {
+          "package_name": "com.simplemobiletools.studentcalendarpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-0um1l13dgk4aq0ldts52dr0d307bsvc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemobiletools.studentcalendarpro",
+            "certificate_hash": "cb9708aece0b611acec9c3443122695e77402bcf"
+          }
+        },
+        {
+          "client_id": "156153175964-8nvrcu00g1ji3ue74omfcguf9aqkub79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemobiletools.studentcalendarpro",
+            "certificate_hash": "a0f736d4ae161277b3dc990364265a120a16217b"
+          }
+        },
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156153175964-6nmte36ij924srct9hfmet0t4st0kuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156153175964:android:a515c9bbe9385e00",
+        "android_client_info": {
+          "package_name": "com.simplemobiletools.studentcalendarpro.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156153175964-cgl0pu3qf3l4511pv4b8tnf3h3u8m5k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplemobiletools.studentcalendarpro.debug",
+            "certificate_hash": "cb9708aece0b611acec9c3443122695e77402bcf"
+          }
+        },
+        {
+          "client_id": "156153175964-asjkli0fjui1ealaqt2hardmnqu16tsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFT7fqQpIJKOTEyhlm6KFxSkIG9RKNH1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156153175964-6nmte36ij924srct9hfmet0t4st0kuej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

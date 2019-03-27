@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_text">@color/md_red_400_dark</color>
+    <color name="default_birthdays_color">@color/md_blue_800</color>
+    <color name="default_holidays_color">@color/md_green_700</color>
+    <color name="default_anniversaries_color">@color/md_red_400_dark</color>
+    
+    <color name="slide1">#3F51B5</color>
+    <color name="slide2">#795548</color>
+    <color name="slide3">#009688</color>
+    
+    
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#83878b</color>
+    
+    
+</resources>

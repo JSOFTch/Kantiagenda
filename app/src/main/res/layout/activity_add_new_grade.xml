@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@color/md_grey_800"
+    tools:openDrawer="start"
+    tools:context=".activities.AddGradeActivity">
+
+
+
+
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_height="match_parent"
+            android:id="@+id/calendar_coordinator"
+            android:layout_width="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/md_deep_purple_900"
+                android:elevation="4dp"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+
+
+            <EditText
+                android:id="@+id/etFirstName"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="100dp"
+                android:textColor="@color/white"
+
+                android:hint="Subject"
+                android:textColorHint="@color/white" />
+
+
+
+
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textColorHint="@color/white"
+                android:layout_marginTop="200dp"
+                android:id="@+id/etLastName"
+                android:layout_below="@+id/etFirstName"
+                android:textColor="@color/white"
+
+                android:layout_centerHorizontal="true"
+                android:hint="Grade"
+                />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etFavFood"
+                android:layout_below="@+id/etLastName"
+                android:textColor="@color/white"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:textColorHint="@color/white"
+                android:layout_marginTop="300dp"
+
+                android:hint="add Percentage"
+                android:inputType="numberDecimal"/>
+            <Button
+                android:layout_marginTop="400dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Save"
+                android:id="@+id/btnAdd"
+                android:textColorHint="@color/white"
+
+                android:layout_below="@+id/etFavFood"
+                android:layout_alignParentStart="true" />
+
+
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_margin="@dimen/fab_margin"
+                app:backgroundTint="@color/colorPrimaryDark"
+                app:srcCompat="@drawable/ic_add_black_24dp" />
+
+
+
+
+
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="55dp"
+        android:layout_gravity="start"
+        android:background="@color/md_deep_purple_900"
+        app:headerLayout="@layout/nav_header"
+        app:itemTextColor="@color/white"
+        app:itemIconTint="@color/white"
+        app:menu="@menu/drawer_menu" />
+
+
+
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
